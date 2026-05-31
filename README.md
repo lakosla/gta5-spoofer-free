@@ -44,11 +44,6 @@
 
 ---
 
-## 🖼️ Screenshots
-
-![Main Window](screen1.png)
-![Spoofing Process](screen2.png)
-
 ---
 
 ## 💬 User Feedback
