@@ -4,7 +4,7 @@
 
 > 🔓 **Bypass any hardware ban in GTA Online. Works after latest update. Undetected.**
 
-![Spoofer GUI](screen1.png)
+![Spoofer GUI](screen1.jpg)
 
 ---
 
